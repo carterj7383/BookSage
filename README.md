@@ -36,7 +36,6 @@ python app.py
 
 
 ## Developers
-- Amy Santjer - Lead Developer
 - Alya Saleh  - Team Developer
 - Laura K Jackson - Team/Backend Developer
 - Joshua Carter -Frontend Developer
